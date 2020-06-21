@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (5.1.0)
+  - IQKeyboardManager (6.5.5)
+  - JTMaterialSpinner (3.0.5)
+  - SDWebImage (5.7.2):
+    - SDWebImage/Core (= 5.7.2)
+  - SDWebImage/Core (5.7.2)
+  - Toast-Swift (5.0.1)
+  - TransitionButton (0.5.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - IQKeyboardManager
+  - JTMaterialSpinner
+  - SDWebImage
+  - Toast-Swift
+  - TransitionButton
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManager
+    - JTMaterialSpinner
+    - SDWebImage
+    - Toast-Swift
+    - TransitionButton
+
+SPEC CHECKSUMS:
+  Alamofire: 9d5c5f602928e512395b30950c5984eca840093c
+  IQKeyboardManager: 3a8b9e603f8b0eeaf5f096a1f2b2cfcf121992ef
+  JTMaterialSpinner: 28a0444186b6b2df4206a77d12f7c9dcbe604958
+  SDWebImage: d9ea4959d99c52276dfada481987018fcaea3d58
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+  TransitionButton: fb271583d9c9e4bb116b97103047e5157653f233
+
+PODFILE CHECKSUM: 339f7ff1fc445f449b5bc39be0df3438fb001f48
+
+COCOAPODS: 1.9.1
